@@ -1,0 +1,41 @@
+PriMed/
+│
+├── index.php
+│
+├── css/
+│   └── style.css
+│
+├── img/
+│
+├── admin/
+│   ├── index.php
+│   ├── pacientes.php
+│   ├── medicos.php
+│   ├── consultas.php
+│   └── atendimentos.php
+│
+├── recepcionista/
+│   ├── index.php
+│   ├── pacientes.php
+│   ├── consultas.php
+│   └── atendimentos.php
+│
+├── medico/
+│   ├── index.php
+│   ├── agenda.php
+│   ├── pacientes.php
+│   └── atendimentos.php
+│
+├── paciente/
+│   ├── index.php
+│   ├── consultas.php
+│   └── historico.php
+│
+├── php/
+│   ├── conexao.php
+│   ├── auth.php
+│   ├── login.php
+│   └── logout.php
+│
+└── banco/
+    └── banco.sql
